@@ -8,7 +8,7 @@
 ## Habilidades
 - JavaScript | React | Node.js
 - HTML | CSS | REST APIs
-- Express.js | MongoDB | MyQSL | Postgres
+- Express.js | MyQSL | Postgres
 - Git | GitHub
 
 ## Contato
